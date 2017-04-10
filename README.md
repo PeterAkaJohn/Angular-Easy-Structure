@@ -1,4 +1,4 @@
-# Morra Cinese
+# Angular simple structure
 
 # Usage:
 
